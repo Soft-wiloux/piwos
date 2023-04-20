@@ -1,0 +1,4 @@
+PRINT "HELLO WORLD"
+goprint "helloworld"
+GOPRINT "hola mundo"
+PRINT 5 + 5
